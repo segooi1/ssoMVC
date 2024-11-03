@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\source\\repos\\sso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|c:\\users\\student\\source\\repos\\sso\\controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|solutionrelative:controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\student\\source\\repos\\sso\\Migrations\\20241030071305_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241030071305_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|c:\\users\\student\\source\\repos\\sso\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|c:\\users\\student\\source\\repos\\sso\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|solutionrelative:models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|c:\\users\\student\\source\\repos\\sso\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|solutionrelative:models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|c:\\users\\student\\source\\repos\\sso\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|c:\\users\\student\\source\\repos\\sso\\models\\usercred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|solutionrelative:models\\usercred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|c:\\users\\student\\source\\repos\\sso\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|c:\\users\\student\\source\\repos\\sso\\sso.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|solutionrelative:sso.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|c:\\users\\student\\source\\repos\\sso\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|c:\\users\\student\\source\\repos\\sso\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58258C1-2922-43F8-B343-54DF75D27105}|sso.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\sso\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\sso\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:36:34.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sessionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\sso\\Models\\sessionInfo.cs",
+              "RelativeDocumentMoniker": "Models\\sessionInfo.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\sso\\Models\\sessionInfo.cs",
+              "RelativeToolTip": "Models\\sessionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:22:07.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "userData.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\sso\\Models\\userData.cs",
+              "RelativeDocumentMoniker": "Models\\userData.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\sso\\Models\\userData.cs",
+              "RelativeToolTip": "Models\\userData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:08:20.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\sso\\Controllers\\ApplicationDBcontext.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationDBcontext.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\sso\\Controllers\\ApplicationDBcontext.cs",
+              "RelativeToolTip": "Controllers\\ApplicationDBcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:54:19.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\sso\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\sso\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T06:18:55.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "userCred.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\sso\\Models\\userCred.cs",
+              "RelativeDocumentMoniker": "Models\\userCred.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\sso\\Models\\userCred.cs",
+              "RelativeToolTip": "Models\\userCred.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:12:13.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\sso\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\sso\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:03:21.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241030071305_init.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\sso\\Migrations\\20241030071305_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241030071305_init.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\sso\\Migrations\\20241030071305_init.cs",
+              "RelativeToolTip": "Migrations\\20241030071305_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:13:08.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sso",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\sso\\sso.csproj",
+              "RelativeDocumentMoniker": "sso.csproj",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\sso\\sso.csproj",
+              "RelativeToolTip": "sso.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T07:17:07.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\sso\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\sso\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:03:05.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\sso\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\sso\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:04:31.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
